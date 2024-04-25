@@ -33,7 +33,7 @@ const AddTwattForm = (props) => {
         if(!formIsValid) {
             return;
         }
-
+        // finished
         props.onConfirm({
             title: enteredTitle,
             content: enteredContent,
