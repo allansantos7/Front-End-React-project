@@ -1,3 +1,9 @@
+Twatter project (Twitter/X Offshoot)
+
+Goals:
+  -Give users the ability to post twats (tweets) anonymously.
+  -All twats are displayed immediately after posting.
+
 Brief Reflection:
 Throughout this semester, I embarked on an enriching journey of learning and developing applications using Java, React, and Vite. This combination of technologies presented a unique blend of back-end and front-end development experiences.
 
