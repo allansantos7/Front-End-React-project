@@ -1,6 +1,7 @@
 ![image](https://github.com/allansantos7/Front-End-React-project/assets/83974830/a6f0626d-a6f6-4fbd-9573-cc315a5ceed6)
 
 Twatter project (Twitter/X Offshoot)
+Live site: https://illustrious-klepon-920839.netlify.app/
 
 Goals:
   -Give users the ability to post twats (tweets) anonymously.
